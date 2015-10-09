@@ -1,1 +1,4 @@
 Trabajo en equipo con git
+El compilador genera un fichero objeto mientras que el interprete realiza una traducción simultanea
+El ficher .rb pertenece a ruby y utiliza la funcion puts y el fichero .sh pertenece a bash.
+Significa cual es el interprete bash que va a traducir el fichero...
