@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+El compilador genera un fichero objeto mientras que el interprete realiza una traducción simultanea
